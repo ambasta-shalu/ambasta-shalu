@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shalu Ambasta.
-- 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I’m interested in Android App Development, AI-ML.
+- 🌱 I’m currently learning Dart Flutter.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://t.me/ambasta_shalu
 
 
