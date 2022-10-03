@@ -1,4 +1,4 @@
-<h1 align="center">Namaskar 🙏, I am Shalu Ambasta</h1>
+<h1 align="center">Namaste 🙏! I am Shalu Ambasta</h1>
 
 <br>
 
