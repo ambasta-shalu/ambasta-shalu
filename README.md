@@ -1,20 +1,21 @@
-<h1 align="center">Namaste 🙏! I am Shalu Ambasta</h1>
+<h1 align="center">Namaste 🙏</h1>
 
 <br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ambasta-shalu/&title=Profile%20Views)
+<img align="right" alt="GirlWithDog" width="400" src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif"/>
 
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ambasta-shalu/">
-    <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
+    <img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
 </a>
 <a href="https://t.me/ambasta_shalu">
-    <img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/clouds/500/000000/telegram-app.png"/>
+    <img align="left" alt="Telegram" width="45px" src="https://img.icons8.com/clouds/500/000000/telegram-app.png"/>
 </a>
 <a href="https://github.com/ambasta-shalu">
-    <img align="left" alt="Github" width="30px" src="https://img.icons8.com/clouds/500/000000/github.png"/>
+    <img align="left" alt="Github" width="45px" src="https://img.icons8.com/clouds/500/000000/github.png"/>
 </a>
 </p>
 
@@ -36,16 +37,17 @@
 <p align="left">
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-
-
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/external-others-iconmarket/64/000000/external-cpp-file-types-others-iconmarket-2.png"/>
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/nolan/512/java-coffee-cup-logo.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/96/000000/c-cute.png"/>
+<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/480/000000/kotlin.png"/>
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="HTML/CSS" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-web-development-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="XML" width="30px" src="https://img.icons8.com/dusk/64/000000/xml-file.png"/>
+<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
 </p>
 
+<br>
 <br>
 <br>
 
@@ -53,9 +55,6 @@
  --- | ---
 ![Shalu Amabsta's github stats](https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=radical&layout=compact)
 
-<br>
-
-<img alt ="Shalu's Readme streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ambasta-shalu"/>
 
 
 <!---
