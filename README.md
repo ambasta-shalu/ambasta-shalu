@@ -51,7 +51,8 @@
 <br>
 
 - <h3 align="left">Stats ⚡</h3>
- ‏‏‎ ‎| ‏‏‎ ‎
+
+‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Shalu Amabsta's github stats](https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=radical&include_all_commits=true) | ![Shalu Ambasta's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=radical&layout=compact)
 
