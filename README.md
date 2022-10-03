@@ -36,18 +36,17 @@
 <h3 align="left">Languages I Know: </h3>
 <p align="left">
 
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/external-others-iconmarket/64/000000/external-cpp-file-types-others-iconmarket-2.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/nolan/512/java-coffee-cup-logo.png"/>
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/96/000000/c-cute.png"/>
-<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/480/000000/kotlin.png"/>
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="HTML/CSS" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-web-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="XML" width="30px" src="https://img.icons8.com/dusk/64/000000/xml-file.png"/>
-<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
+<img alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+<img alt="C++" width="30px" src="https://img.icons8.com/external-others-iconmarket/64/000000/external-cpp-file-types-others-iconmarket-2.png"/>
+<img alt="Java" width="30px" src="https://img.icons8.com/nolan/512/java-coffee-cup-logo.png"/>
+<img alt="C" width="30px" src="https://img.icons8.com/color/96/000000/c-cute.png"/>
+<img alt="Kotlin" width="30px" src="https://img.icons8.com/color/480/000000/kotlin.png"/>
+<img alt="JavaScript" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+<img alt="HTML/CSS" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-web-development-flaticons-lineal-color-flat-icons.png"/>
+<img alt="XML" width="30px" src="https://img.icons8.com/dusk/64/000000/xml-file.png"/>
+<img alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
 </p>
 
-<br>
 <br>
 <br>
 
