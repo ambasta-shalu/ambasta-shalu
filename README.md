@@ -20,6 +20,7 @@
 </p>
 
 <br>
+<br>
 
 - <h3 align="left">Coding Profiles 💻</h3>
 <p align="left">
@@ -31,6 +32,7 @@
 </a>
 </p>
 
+<br>
 <br>
 
 - <h3 align="left">Languages</h3>
