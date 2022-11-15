@@ -19,8 +19,9 @@
 </a>
 </p>
 
-<br>
-<br>
+
+<br><br>
+
 
 - <h3 align="left">Coding Profiles 💻</h3>
 <p align="left">
@@ -32,8 +33,9 @@
 </a>
 </p>
 
-<br>
-<br>
+
+<br><br>
+
 
 - <h3 align="left">Languages</h3>
 <p align="left">
@@ -49,8 +51,8 @@
 <img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
 </p>
 
-<br>
-<br>
+<br><br>
+
 
 - <h3 align="left">Stats ⚡</h3>
 
