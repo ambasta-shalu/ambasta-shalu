@@ -31,6 +31,9 @@
 <a href="https://www.hackerrank.com/ambasta_shalu">
     <img align="left" alt="HackerRank" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
+<a href="https://auth.geeksforgeeks.org/user/ambasta_shalu">
+<img align="left" alt="GeeksforGeeks" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
+</a>
 </p>
 
 
