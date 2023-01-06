@@ -26,10 +26,10 @@
 
 - <h3 align="left">Coding Profiles 💻</h3>
 <p align="left">
-<a href="https://leetcode.com/ambasta-shalu/">
+<a href="https://leetcode.com/a-shalu/">
     <img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
-<a href="https://www.hackerrank.com/ambasta_shalu">
+<a href="https://www.hackerrank.com/a_shalu">
     <img align="left" alt="HackerRank" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/ambasta_shalu">
