@@ -8,12 +8,15 @@
 
 - <h3 align="left">Available 👇</h3>
 <p align="left">
+
+<a href="https://shalu-ambasta.vercel.app/">
+    <img align="left" width="45px" alt="Portfolio" src="https://img.icons8.com/clouds/100/resume.png"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ambasta-shalu/">
     <img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
 </a>
-<a href="https://t.me/ambasta_shalu">
-    <img align="left" alt="Telegram" width="45px" src="https://img.icons8.com/clouds/500/000000/telegram-app.png"/>
-</a>
+    
 <a href="https://github.com/ambasta-shalu">
     <img align="left" alt="Github" width="45px" src="https://img.icons8.com/clouds/500/000000/github.png"/>
 </a>
@@ -40,7 +43,7 @@
 <br><br>
 
 
-- <h3 align="left">Languages</h3>
+- <h3 align="left">Tech/Languages</h3>
 <p align="left">
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
@@ -52,10 +55,10 @@
 <img align="left" alt="HTML/CSS" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-web-development-flaticons-lineal-color-flat-icons.png"/>
 <img align="left" alt="XML" width="30px" src="https://img.icons8.com/dusk/64/000000/xml-file.png"/>
 <img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="NextJS" width="30px" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
 </p>
 
 <br><br>
-
 
 - <h3 align="left">Stats ⚡</h3>
 
