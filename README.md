@@ -1,74 +1,110 @@
-<h1 align="center">Namaste 🙏</h1>
+<h1 align="center">Namaste 🙏, I'm Shalu Ambasta</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ambasta-shalu/&title=Profile%20Views)
-<img align="right" alt="GirlWithDog" width="400" src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif"/>
-
-
-- <h3 align="left">Available 👇</h3>
-<p align="left">
-
-<a href="https://shalu-ambasta.vercel.app/">
-    <img align="left" width="45px" alt="Portfolio" src="https://img.icons8.com/clouds/100/resume.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ambasta-shalu/">
-    <img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
-</a>
-    
-<a href="https://github.com/ambasta-shalu">
-    <img align="left" alt="Github" width="45px" src="https://img.icons8.com/clouds/500/000000/github.png"/>
-</a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif" alt="Girl working with dog" width="500"/>
 </p>
 
-
-<br><br>
-
-
-- <h3 align="left">Coding Profiles 💻</h3>
-<p align="left">
-<a href="https://leetcode.com/a-shalu/">
-    <img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
-</a>
-<a href="https://www.hackerrank.com/a_shalu">
-    <img align="left" alt="HackerRank" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/ambasta_shalu">
-<img align="left" alt="GeeksforGeeks" width="30px" src="https://img.icons8.com/color/480/null/GeeksforGeeks.png"/>
-</a>
+<p align="center">
+  <a href="https://shalu-ambasta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ambasta-shalu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/ambasta_shalu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://t.me/ambasta_shalu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
+<br/>
 
-<br><br>
+## 👩‍💻 About Me
 
+I am a software developer passionate about building scalable web applications and solving complex problems. I love exploring new technologies and sharing my knowledge with the community.
 
-- <h3 align="left">Tech/Languages</h3>
-<p align="left">
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **DevOps** and **Cloud Computing**
+- 💬 Ask me about **React, Node.js, and Python**
+- 📫 How to reach me: **ambastashalu@gmail.com** (or via socials above!)
 
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/external-others-iconmarket/64/000000/external-cpp-file-types-others-iconmarket-2.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/nolan/512/java-coffee-cup-logo.png"/>
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/96/000000/c-cute.png"/>
-<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/480/000000/kotlin.png"/>
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="HTML/CSS" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-web-development-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="XML" width="30px" src="https://img.icons8.com/dusk/64/000000/xml-file.png"/>
-<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
-<img align="left" alt="NextJS" width="30px" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
+<br/>
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-<br><br>
+### 🎨 Frontend
 
-- <h3 align="left">Stats ⚡</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
 
-‏‏‎ ‎| ‏‏‎ ‎
- --- | ---
-![Shalu Amabsta's github stats](https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=radical&include_all_commits=true) | ![Shalu Ambasta's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=radical&layout=compact)
+### ⚙️ Backend
 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</p>
 
+### 🗄️ Database & Cloud
 
-<!---
-ambasta-shalu/ambasta-shalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</p>
+
+<br/>
+
+## 🏆 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/a-shalu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/a_shalu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/ambasta_shalu"><img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+</p>
+
+<br/>
+
+## ⚡ Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Shalu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&layout=compact" alt="Shalu's Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasta-shalu&theme=tokyonight" alt="Shalu's Streak" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ambasta-shalu/&title=Profile%20Views" alt="Profile Views"/>
+</p>
