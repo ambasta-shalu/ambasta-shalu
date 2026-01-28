@@ -86,8 +86,8 @@ I am a software developer passionate about building scalable web applications an
 ## 🏆 Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/a-shalu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/a_shalu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/ambasta-shalu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/ambasta_shalu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
   <a href="https://auth.geeksforgeeks.org/user/ambasta_shalu"><img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
@@ -106,5 +106,6 @@ I am a software developer passionate about building scalable web applications an
 <br/>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ambasta-shalu/&title=Profile%20Views" alt="Profile Views"/>
+  <!-- Profile Views using Komarev -->
+  <img src="https://komarev.com/ghpvc/?username=ambasta-shalu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
