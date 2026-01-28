@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-I am a software developer passionate about building scalable web applications and solving complex problems. I love exploring new technologies and sharing my knowledge with the community.
+I am crafting digital worlds! My mission is to build scalable web ecosystems that are as fast as a ninja using **React** and **Node.js**.
 
 - 🔭 I’m currently **Architecting Scalable & High-Performance Web Ecosystems 🚀**
 - 🌱 I’m currently learning **RabbitMQ**
@@ -99,9 +99,6 @@ I am a software developer passionate about building scalable web applications an
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Shalu's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&layout=compact" alt="Shalu's Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasta-shalu&theme=tokyonight" alt="Shalu's Streak" />
 </div>
 
 <br/>
