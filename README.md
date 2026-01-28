@@ -8,8 +8,10 @@
 <p align="center">
   <a href="https://shalu-ambasta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ambasta-shalu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://instagram.com/ambasta_shalu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.facebook.com/share/1Cfz4sjozf/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://discord.com/users/ambasta_shalu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ambasta_shalu"/></a>
   <a href="https://t.me/ambasta_shalu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
@@ -19,10 +21,9 @@
 
 I am a software developer passionate about building scalable web applications and solving complex problems. I love exploring new technologies and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **DevOps** and **Cloud Computing**
-- 💬 Ask me about **React, Node.js, and Python**
-- 📫 How to reach me: **ambastashalu@gmail.com** (or via socials above!)
+- 🔭 I’m currently **Architecting Scalable & High-Performance Web Ecosystems 🚀**
+- 🌱 I’m currently learning **RabbitMQ**
+- 💬 Ask me about **Why my code works on localhost but not in production 🥲**
 
 <br/>
 
