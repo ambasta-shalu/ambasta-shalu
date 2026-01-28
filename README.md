@@ -8,8 +8,10 @@
 <p align="center">
   <a href="https://shalu-ambasta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ambasta-shalu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://instagram.com/ambasta_shalu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.facebook.com/share/1Cfz4sjozf/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://discord.com/users/ambasta_shalu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ambasta_shalu"/></a>
   <a href="https://t.me/ambasta_shalu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
@@ -17,12 +19,11 @@
 
 ## 👩‍💻 About Me
 
-I am a software developer passionate about building scalable web applications and solving complex problems. I love exploring new technologies and sharing my knowledge with the community.
+I am crafting digital worlds! My mission is to build scalable web ecosystems that are as fast as a ninja using **React** and **Node.js**.
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **DevOps** and **Cloud Computing**
-- 💬 Ask me about **React, Node.js, and Python**
-- 📫 How to reach me: **ambastashalu@gmail.com** (or via socials above!)
+- 🔭 I’m currently **Architecting Scalable & High-Performance Web Ecosystems 🚀**
+- 🌱 I’m currently learning **RabbitMQ**
+- 💬 Ask me about **Why my code works on localhost but not in production 🥲**
 
 <br/>
 
@@ -86,8 +87,8 @@ I am a software developer passionate about building scalable web applications an
 ## 🏆 Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/a-shalu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/a_shalu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/ambasta-shalu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/ambasta_shalu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
   <a href="https://auth.geeksforgeeks.org/user/ambasta_shalu"><img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
@@ -99,12 +100,10 @@ I am a software developer passionate about building scalable web applications an
   <img src="https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Shalu's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&layout=compact" alt="Shalu's Top Languages" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasta-shalu&theme=tokyonight" alt="Shalu's Streak" />
-</div>
 
 <br/>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ambasta-shalu/&title=Profile%20Views" alt="Profile Views"/>
+  <!-- Profile Views using Komarev -->
+  <img src="https://komarev.com/ghpvc/?username=ambasta-shalu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
