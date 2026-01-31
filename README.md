@@ -17,13 +17,17 @@
 
 <br/>
 
-## 👩‍💻 About Me
+## About Me
 
-I am crafting digital worlds! My mission is to build scalable web ecosystems that are as fast as a ninja using **React** and **Node.js**.
+⚡ I break things in production so you don't have to.
 
-- 🔭 I’m currently **Architecting Scalable & High-Performance Web Ecosystems 🚀**
-- 🌱 I’m currently learning **RabbitMQ**
-- 💬 Ask me about **Why my code works on localhost but not in production 🥲**
+Three years ago, I wrote my first `console.log("Hello World")` — today I architect systems that handle real traffic, real users, and real 3 AM ☕ debugging sessions. I work primarily with **React** and **Node.js**, but I'm that developer who actually reads the docs before Stack Overflow _(sometimes)_.
+
+🧠 **Currently obsessed with:** Making distributed systems less painful. Exploring **RabbitMQ** because apparently I enjoy messaging queues now.
+
+🔥 **Hot take:** The best code is the code your future self won't curse at. I write for maintainability first, cleverness second.
+
+💬 **Open to chat about:** System design rabbit holes, performance optimization, or why your perfectly working localhost code betrays you in production — I've been there, I have theories.
 
 <br/>
 
@@ -58,6 +62,7 @@ I am crafting digital worlds! My mission is to build scalable web ecosystems tha
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
