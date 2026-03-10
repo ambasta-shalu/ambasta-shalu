@@ -99,16 +99,50 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
 
 <br/>
 
-## ⚡ Stats
+## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Shalu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&layout=compact" alt="Shalu's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shalu's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <br/>
 
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ambasta-shalu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambasta-shalu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
 <p align="center">
-  <!-- Profile Views using Komarev -->
-  <img src="https://komarev.com/ghpvc/?username=ambasta-shalu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ambasta-shalu&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repos! ⭐</b>
 </p>
