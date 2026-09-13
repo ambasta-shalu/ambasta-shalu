@@ -1,17 +1,18 @@
 <h1 align="center">Namaste 🙏, I'm Shalu Ambasta</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Product Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif" alt="Girl working with dog" width="500"/>
+  <img src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif" alt="Girl working with dog" width="100%" style="max-width:500px;"/>
 </p>
 
 <p align="center">
-  <a href="https://shalu-ambasta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.shaluambasta.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ambasta-shalu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ambasta_shalu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://instagram.com/ambasta_shalu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/share/1Cfz4sjozf/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://discord.com/users/ambasta_shalu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ambasta_shalu"/></a>
+  <br/>
+  <a href="https://www.facebook.com/ambasta.shalu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://discord.com/users/ambasta_shalu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://t.me/ambasta_shalu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
@@ -21,9 +22,11 @@
 
 ⚡ I break things in production so you don't have to.
 
-Three years ago, I wrote my first `console.log("Hello World")` — today I architect systems that handle real traffic, real users, and real 3 AM ☕ debugging sessions. I work primarily with **React** and **Node.js**, but I'm that developer who actually reads the docs before Stack Overflow _(sometimes)_.
+Three years ago, I wrote my first `console.log("Hello World")` — today I build systems that handle real traffic, real users, and real 3 AM ☕ debugging sessions. I work mainly with **Node.js**, **React**, and **TypeScript**, and I like shipping things that still work after launch.
 
-🧠 **Currently obsessed with:** Making distributed systems less painful. Exploring **RabbitMQ** because apparently I enjoy messaging queues now.
+👾 **Open to:** Freelance projects and full-time roles.
+
+🧠 **Currently obsessed with:** Making distributed systems less painful. Got comfortable with **RabbitMQ** — now learning **Kubernetes**.
 
 🔥 **Hot take:** The best code is the code your future self won't curse at. I write for maintainability first, cleverness second.
 
@@ -43,6 +46,8 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
+<br/>
+
 ### 🎨 Frontend
 
 <p>
@@ -55,6 +60,21 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
+<br/>
+
+### 🤖 AI & Applied Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs (OpenAI, Claude)"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=for-the-badge" alt="RAG Pipelines"/>
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" alt="AI Agents & Tool Calling"/>
+  <img src="https://img.shields.io/badge/LangChain_/_LangGraph-1C3C3C?style=for-the-badge" alt="LangChain / LangGraph"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector DBs (pgvector, Pinecone)"/>
+</p>
+
+<br/>
+
 ### ⚙️ Backend
 
 <p>
@@ -62,9 +82,16 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF6B35?style=for-the-badge" alt="BullMQ"/>
 </p>
+
+<br/>
 
 ### 🗄️ Database & Cloud
 
@@ -76,12 +103,18 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
+<br/>
+
 ### 🛠️ DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
@@ -99,28 +132,10 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
 
 <br/>
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ambasta-shalu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shalu's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ambasta-shalu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-</div>
-
-<br/>
-
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ambasta-shalu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambasta-shalu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=ambasta-shalu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" style="max-width:720px;"/>
 </div>
 
 <br/>
@@ -131,7 +146,7 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I archi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ambasta-shalu/ambasta-shalu/output/github-snake-dark.svg" width="100%" style="max-width:100%;"/>
   </picture>
 </div>
 
