@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Product Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif" alt="Girl working with dog" width="100%" style="max-width:500px;"/>
+  <img src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif" alt="Girl working with dog" width="300"/>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ambasta-shalu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" style="max-width:720px;"/>
+  <img src="https://streak-stats.demolab.com?user=ambasta-shalu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="495"/>
 </div>
 
 <br/>
