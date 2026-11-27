@@ -39,10 +39,10 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### 💻 Languages
 
 <p>
-  <img src="assets/skills/typescript.svg" alt="TypeScript" title="TypeScript"/>
-  <img src="assets/skills/javascript.svg" alt="JavaScript" title="JavaScript"/>
-  <img src="assets/skills/python.svg" alt="Python" title="Python"/>
-  <img src="assets/skills/sql.svg" alt="SQL" title="SQL"/>
+  <img hspace="3" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img hspace="3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img hspace="3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img hspace="3" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 <br/>
@@ -50,14 +50,14 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### 🤖 AI & LLMs
 
 <p>
-  <img src="assets/skills/gemini.svg" alt="Gemini (LLM APIs)" title="Gemini (LLM APIs)"/>
-  <img src="assets/skills/rag.svg" alt="RAG (Pipelines)" title="RAG (Pipelines)"/>
-  <img src="assets/skills/agents.svg" alt="AI Agents (Tool Calling)" title="AI Agents (Tool Calling)"/>
-  <img src="assets/skills/langchain.svg" alt="LangChain" title="LangChain"/>
-  <img src="assets/skills/langgraph.svg" alt="LangGraph" title="LangGraph"/>
-  <img src="assets/skills/pgvector.svg" alt="pgvector (Vector DB)" title="pgvector (Vector DB)"/>
-  <img src="assets/skills/ocr.svg" alt="OCR (Tesseract)" title="OCR (Tesseract)"/>
-  <img src="assets/skills/paddleocr.svg" alt="PaddleOCR (OCR)" title="PaddleOCR (OCR)"/>
+  <img hspace="3" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini (LLM APIs)"/>
+  <img hspace="3" src="https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=for-the-badge" alt="RAG Pipelines"/>
+  <img hspace="3" src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" alt="AI Agents & Tool Calling"/>
+  <img hspace="3" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img hspace="3" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img hspace="3" src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector (Vector DB)"/>
+  <img hspace="3" src="https://img.shields.io/badge/Tesseract_OCR-14B8A6?style=for-the-badge" alt="OCR (Tesseract)"/>
+  <img hspace="3" src="https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddleOCR"/>
 </p>
 
 <br/>
@@ -65,15 +65,15 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### ⚙️ Backend
 
 <p>
-  <img src="assets/skills/node.svg" alt="Node.js" title="Node.js"/>
-  <img src="assets/skills/express.svg" alt="Express.js" title="Express.js"/>
-  <img src="assets/skills/nest.svg" alt="NestJS" title="NestJS"/>
-  <img src="assets/skills/hono.svg" alt="Hono" title="Hono"/>
-  <img src="assets/skills/rest.svg" alt="REST APIs" title="REST APIs"/>
-  <img src="assets/skills/graphql.svg" alt="GraphQL" title="GraphQL"/>
-  <img src="assets/skills/websockets.svg" alt="WebSockets" title="WebSockets"/>
-  <img src="assets/skills/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ"/>
-  <img src="assets/skills/bullmq.svg" alt="BullMQ (Job Queues)" title="BullMQ (Job Queues)"/>
+  <img hspace="3" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img hspace="3" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img hspace="3" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
+  <img hspace="3" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
+  <img hspace="3" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img hspace="3" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img hspace="3" src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
+  <img hspace="3" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img hspace="3" src="https://img.shields.io/badge/BullMQ-FF6B35?style=for-the-badge" alt="BullMQ"/>
 </p>
 
 <br/>
@@ -81,13 +81,13 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### 🎨 Frontend
 
 <p>
-  <img src="assets/skills/react.svg" alt="React.js" title="React.js"/>
-  <img src="assets/skills/next.svg" alt="Next.js" title="Next.js"/>
-  <img src="assets/skills/redux.svg" alt="Redux Toolkit" title="Redux Toolkit"/>
-  <img src="assets/skills/zustand.svg" alt="Zustand" title="Zustand"/>
-  <img src="assets/skills/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="assets/skills/html.svg" alt="HTML5" title="HTML5"/>
-  <img src="assets/skills/css.svg" alt="CSS" title="CSS"/>
+  <img hspace="3" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img hspace="3" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img hspace="3" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img hspace="3" src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
+  <img hspace="3" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img hspace="3" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img hspace="3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 </p>
 
 <br/>
@@ -95,11 +95,11 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### 🗄️ Databases
 
 <p>
-  <img src="assets/skills/postgres.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="assets/skills/mysql.svg" alt="MySQL" title="MySQL"/>
-  <img src="assets/skills/mongodb.svg" alt="MongoDB" title="MongoDB"/>
-  <img src="assets/skills/redis.svg" alt="Redis" title="Redis"/>
-  <img src="assets/skills/prisma.svg" alt="Prisma" title="Prisma"/>
+  <img hspace="3" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img hspace="3" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img hspace="3" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img hspace="3" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img hspace="3" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
 <br/>
@@ -107,19 +107,19 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="assets/skills/ec2.svg" alt="AWS EC2" title="AWS EC2"/>
-  <img src="assets/skills/lambda.svg" alt="AWS Lambda" title="AWS Lambda"/>
-  <img src="assets/skills/s3.svg" alt="AWS S3" title="AWS S3"/>
-  <img src="assets/skills/cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront"/>
-  <img src="assets/skills/cloudwatch.svg" alt="AWS CloudWatch" title="AWS CloudWatch"/>
-  <img src="assets/skills/amplify.svg" alt="AWS Amplify" title="AWS Amplify"/>
-  <img src="assets/skills/cfworkers.svg" alt="Cloudflare Workers" title="Cloudflare Workers"/>
-  <img src="assets/skills/docker.svg" alt="Docker" title="Docker"/>
-  <img src="assets/skills/k8s.svg" alt="Kubernetes" title="Kubernetes"/>
-  <img src="assets/skills/cicd.svg" alt="CI/CD (GitHub Actions)" title="CI/CD (GitHub Actions)"/>
-  <img src="assets/skills/linux.svg" alt="Linux" title="Linux"/>
-  <img src="assets/skills/nginx.svg" alt="Nginx" title="Nginx"/>
-  <img src="assets/skills/git.svg" alt="Git" title="Git"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge" alt="AWS EC2"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge" alt="AWS Lambda"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge" alt="AWS S3"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge" alt="AWS CloudFront"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge" alt="AWS CloudWatch"/>
+  <img hspace="3" src="https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge" alt="AWS Amplify"/>
+  <img hspace="3" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers"/>
+  <img hspace="3" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img hspace="3" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img hspace="3" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img hspace="3" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img hspace="3" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img hspace="3" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <br/>
@@ -127,8 +127,8 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 ### 🛠️ Tools
 
 <p>
-  <img src="assets/skills/postman.svg" alt="Postman" title="Postman"/>
-  <img src="assets/skills/jira.svg" alt="Jira" title="Jira"/>
+  <img hspace="3" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img hspace="3" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 <br/>
@@ -170,5 +170,5 @@ Three years ago, I wrote my first `console.log("Hello World")` — today I build
 </p>
 
 <p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repos! ⭐</b>
+  <b>⭐ If my repos saved you a 3 AM debugging session, drop a star - it's cheaper than coffee ☕</b>
 </p>
