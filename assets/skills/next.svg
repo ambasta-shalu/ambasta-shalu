@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="116" viewBox="0 0 104 116" role="img" aria-label="Next.js">
+<defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1F2328" flood-opacity="0.14"/></filter><filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect x="7" y="7" width="90" height="102" rx="16" fill="none" stroke="#F0F6FC" stroke-width="4" opacity="0.55" filter="url(#blur)"/>
+  <rect x="7" y="7" width="90" height="102" rx="16" fill="#0B0F17" stroke="#F0F6FC" stroke-width="1.5"/>
+  <svg x="32" y="22" width="40" height="40" viewBox="0 0 24 24"><path fill="#F0F6FC" d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"/></svg><text x="52" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F0F6FC">Next.js</text>
+</svg>
